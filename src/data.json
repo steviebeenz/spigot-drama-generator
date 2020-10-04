@@ -55,7 +55,9 @@
             "octylFractal",
             "aurora",
             "MrIvanPlays",
-            "Chew"
+            "Chew", 
+            "Ghost-chu", 
+            "Machine Maker"
         ],
         "sites": [
             "SpigotMC Forums",
@@ -82,7 +84,8 @@
             "MOSS Discord",
             "EssentialsX issue tracker",
             "Sponge Forums",
-            "SpigotMC Discord"
+            "SpigotMC Discord", 
+            "Paper Forums"
         ],
         "things": [
             "Paper",
@@ -182,7 +185,8 @@
             "Mineteria",
             "CubeCraft",
             "The Hive",
-            "Realms"
+            "Realms", 
+            "GommeHD"
         ],
         "function": [
             "1.8 support",
@@ -287,6 +291,7 @@
             "precompiled Spigot binaries",
             "force ops",
             "server crashers",
+            "skids",
             "arbitrary JavaScript execution"
         ],
         "drama": [
